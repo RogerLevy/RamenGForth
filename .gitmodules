@@ -1,3 +1,11 @@
 [submodule "ramen"]
 	path = ramen
 	url = https://github.com/RogerLevy/ramen.git
+
+[submodule "bento"]
+	path = bento
+	url = https://github.com/RogerLevy/bento.git
+
+[submodule "afkit"]
+	path = afkit
+	url = https://github.com/RogerLevy/afkit.git
