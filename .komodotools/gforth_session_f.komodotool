@@ -1,18 +1,18 @@
 {
   "insertOutput": 0, 
   "parseRegex": "", 
-  "doNotOpenOutputWindow": 1, 
+  "doNotOpenOutputWindow": 0, 
   "keyboard_shortcut": "F5", 
-  "name": "sf true constant dev include session.f", 
+  "name": "gforth session.f", 
   "operateOnSelection": 0, 
   "value": [
-    "sf true constant dev include session.f"
+    "gforth session.f"
   ], 
-  "cwd": "%p", 
+  "parseOutput": 0, 
   "version": "1.0.12", 
   "env": "", 
   "showParsedOutputList": 0, 
   "type": "command", 
-  "parseOutput": 0, 
-  "runIn": "command-output-window"
+  "cwd": "%p", 
+  "runIn": "new-console"
 }
